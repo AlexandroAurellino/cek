@@ -1,0 +1,12 @@
+2001+2002+2003+...+3998+3999+4000 = X
+initialized variabel a
+initialized variabel x
+
+a = 2001
+x = a
+
+While a kurang dari sama dengan 4000 do
+	a = a + 1
+	x = x + a
+
+
